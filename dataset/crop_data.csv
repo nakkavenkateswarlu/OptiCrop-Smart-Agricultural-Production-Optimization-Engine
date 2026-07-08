@@ -1,0 +1,11 @@
+Temperature,Rainfall,Humidity,Soil,pH,Crop
+30,200,80,Loamy,6.5,Rice
+28,150,70,Black,6.8,Cotton
+35,100,60,Sandy,7.2,Groundnut
+25,250,85,Clay,6.2,Sugarcane
+27,180,75,Loamy,6.7,Maize
+32,120,65,Sandy,7.0,Millets
+29,170,78,Black,6.9,Soybean
+26,220,82,Clay,6.4,Wheat
+31,140,68,Loamy,6.8,Sunflower
+24,260,88,Clay,6.3,Paddy
